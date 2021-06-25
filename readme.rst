@@ -1,4 +1,4 @@
 ###################
-Absensi Karyawan QR Codes
+Codes QR de présence des employés
 ###################
-Absensi Karyawan QR Code dibuat dengan Framework CI- 3 
+Code QR de présence des employés créé avec CI-3 Framework
